@@ -7,6 +7,8 @@ nav_order: 1
 # LUMI AIF Learning Template
 This is the official template for creating clean, branded self-learning course sites. By using this template, you ensure that your training materials match the **LUMI AI Factory** visual identity automatically.
 
+This is my edit. 
+
 For a quick overview of the Markdown syntax elements refer to [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/).
 
 ---
